@@ -1,0 +1,66 @@
+{
+  "id" : "https://BinkHallum.github.io/TheGood/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in BinkHallum/TheGood project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 4016,
+    "id" : "https://BinkHallum.github.io/TheGood/images/ZM7360-1_TheGoodcopy/canvas/",
+    "label" : {
+      "none" : [ "ZM7360-1_TheGoodcopy" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://BinkHallum.github.io/TheGood/images/ZM7360-1_TheGoodcopy/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://BinkHallum.github.io/TheGood/images/ZM7360-1_TheGoodcopy/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 126,
+              "height" : 188
+            }, {
+              "width" : 251,
+              "height" : 376
+            }, {
+              "width" : 502,
+              "height" : 752
+            }, {
+              "width" : 1004,
+              "height" : 1504
+            }, {
+              "width" : 2008,
+              "height" : 3008
+            }, {
+              "width" : 4016,
+              "height" : 6016
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 4016,
+            "@id" : "https://BinkHallum.github.io/TheGood/images/ZM7360-1_TheGoodcopy",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 6016
+          } ],
+          "format" : "image/jpeg",
+          "width" : 4016,
+          "id" : "https://BinkHallum.github.io/TheGood/images/ZM7360-1_TheGoodcopy/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 6016
+        },
+        "target" : "https://BinkHallum.github.io/TheGood/images/ZM7360-1_TheGoodcopy/canvas/"
+      } ]
+    } ],
+    "height" : 6016
+  } ]
+}
