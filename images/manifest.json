@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 4016,
+    "id" : "https://BinkHallum.github.io/TheGood/images/ZM7360-1_TheGood/canvas/",
+    "label" : {
+      "none" : [ "ZM7360-1_TheGood" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://BinkHallum.github.io/TheGood/images/ZM7360-1_TheGood/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://BinkHallum.github.io/TheGood/images/ZM7360-1_TheGood/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 126,
+              "height" : 188
+            }, {
+              "width" : 251,
+              "height" : 376
+            }, {
+              "width" : 502,
+              "height" : 752
+            }, {
+              "width" : 1004,
+              "height" : 1504
+            }, {
+              "width" : 2008,
+              "height" : 3008
+            }, {
+              "width" : 4016,
+              "height" : 6016
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 4016,
+            "@id" : "https://BinkHallum.github.io/TheGood/images/ZM7360-1_TheGood",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 6016
+          } ],
+          "format" : "image/jpeg",
+          "width" : 4016,
+          "id" : "https://BinkHallum.github.io/TheGood/images/ZM7360-1_TheGood/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 6016
+        },
+        "target" : "https://BinkHallum.github.io/TheGood/images/ZM7360-1_TheGood/canvas/"
+      } ]
+    } ],
+    "height" : 6016
+  }, {
     "width" : 6016,
     "id" : "https://BinkHallum.github.io/TheGood/images/ZM7359-1_TheBeautiful/canvas/",
     "label" : {
