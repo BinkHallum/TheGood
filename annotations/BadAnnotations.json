@@ -1,0 +1,158 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Junnat al-asmāʾ جنّة الأسماء\n\"Shield of names\"",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><em>Junnat al-asmāʾ </em>جنّة الأسماء</p>\n<p>\"Shield of names\"</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "diagram",
+      "@type" : "oa:Tag",
+      "chars" : "diagram"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/114300627222714347489",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-03-24T12:37:19",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1679661439935",
+    "dcterms:modified" : "2023-03-24T17:22:05",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://BinkHallum.github.io/TheGood/manifests/Talismanicmanifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2991,3435,292,310"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3033.344,3480.29205c26.95561,-26.05868 64.98087,-45.46369 103.1904,-45.44051v0v0c38.20953,0.02318 71.49644,18.17626 103.1904,45.44051c31.69396,27.26425 44.013,68.80969 42.74286,109.70309c-1.27014,40.8934 -16.12946,81.13474 -42.74286,109.70309c-26.6134,28.56835 -64.98087,45.46369 -103.1904,45.44051c-38.20953,-0.02318 -76.26111,-16.9649 -103.1904,-45.44051c-26.92929,-28.47561 -42.73628,-68.48512 -42.74286,-109.70309c-0.00658,-41.21797 15.78725,-83.64441 42.74286,-109.70309z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_c34000a3-22e3-48e8-ab1e-5497086bd916\" fill-opacity=\"0.23\" fill=\"#ffff00\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"14.48475\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1fd3c4dd-78c6-406d-be33-7f35c4345978"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Spiral",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Spiral</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "diagram",
+      "@type" : "oa:Tag",
+      "chars" : "diagram"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/114300627222714347489",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-03-24T12:38:18",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1679661498649",
+    "dcterms:modified" : "2023-03-24T16:59:17",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://BinkHallum.github.io/TheGood/manifests/Talismanicmanifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1469,351,257,257"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1688.0096,388.99832c-23.69158,-21.54562 -57.1124,-37.58991 -90.69517,-37.57074v0v0c-33.58277,0.01917 -62.839,15.02834 -90.69517,37.57074c-27.85617,22.5424 -38.68351,56.89265 -37.56717,90.70379c1.11634,33.81114 14.17636,67.08315 37.56717,90.70379c23.39081,23.62064 57.1124,37.58991 90.69517,37.57074c33.58277,-0.01917 67.02672,-14.02677 90.69517,-37.57074c23.66845,-23.54397 37.56139,-56.62429 37.56717,-90.70379c0.00578,-34.0795 -13.87559,-69.15817 -37.56717,-90.70379z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"ellipse_a7e50f9a-f4c5-44b4-96b1-f5e23c5d72cd\" fill-opacity=\"0.23\" fill=\"#ffff00\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1fd3c4dd-78c6-406d-be33-7f35c4345978"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "100 &times; 100 magic square الوفق المئيني",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>100 &times; 100 magic square الوفق المئيني</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "magic square",
+      "@type" : "oa:Tag",
+      "chars" : "magic square"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/114300627222714347489",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-03-24T12:39:15",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1679661555465",
+    "dcterms:modified" : "2023-03-24T16:59:40",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://BinkHallum.github.io/TheGood/manifests/Talismanicmanifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1635,526,2996,2942"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1634.77689,526.14125h1497.75762v0h1497.75762v1471.20225v1471.20225h-1497.75762h-1497.75762v-1471.20225z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.50196,0],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_1975d078-a033-4133-a636-f675f146cce1\" fill-opacity=\"0.21\" fill=\"#008000\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1fd3c4dd-78c6-406d-be33-7f35c4345978"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Square of the ten Names of Qāf\n(cf., al-Kūmī, Taysīr al-maṭālib, Paris, <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b110021899/f29.item\" target=\"_blank\" rel=\"noopener\">BnF, Arabe 2707, f. 25v)",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Square of the ten Names of <em>Qāf</em></p>\n<p>(cf., al-Kūmī, <em>Taysīr al-maṭālib</em>, Paris, <a href=\"https://gallica.bnf.fr/ark:/12148/btv1b110021899/f29.item\" target=\"_blank\" rel=\"noopener\">BnF, Arabe 2707, f. 25v</a>)</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "diagram",
+      "@type" : "oa:Tag",
+      "chars" : "diagram"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "magic square",
+      "@type" : "oa:Tag",
+      "chars" : "magic square"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/114300627222714347489",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-03-24T17:42:25",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1679679745469",
+    "dcterms:modified" : "2023-03-24T17:48:16",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://BinkHallum.github.io/TheGood/manifests/Talismanicmanifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4624,3418,282,300"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4664.85951,3461.4457c26.06389,-25.17534 62.83122,-43.92257 99.77673,-43.90017v0v0c36.94551,0.0224 69.13125,17.56012 99.77673,43.90017c30.64548,26.34005 42.55699,66.47719 41.32887,105.98439c-1.22812,39.5072 -15.59588,78.38445 -41.32887,105.98439c-25.73299,27.59994 -62.83122,43.92257 -99.77673,43.90017c-36.94551,-0.0224 -73.7383,-16.38982 -99.77673,-43.90017c-26.03843,-27.51035 -41.32251,-66.16362 -41.32887,-105.98439c-0.00636,-39.82077 15.26498,-80.80905 41.32887,-105.98439z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"ellipse_81d72816-e79d-4cb8-bcf4-743f553af5f3\" fill-opacity=\"0.24\" fill=\"#ffff00\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1fd3c4dd-78c6-406d-be33-7f35c4345978"
+    } ]
+  } ],
+  "@id" : "https://BinkHallum.github.io/TheGood/annotations/BadAnnotations.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
