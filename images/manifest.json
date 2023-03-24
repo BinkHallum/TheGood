@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 6016,
+    "id" : "https://BinkHallum.github.io/TheGood/images/ZM7360-1_TheGoodcopy_landscape/canvas/",
+    "label" : {
+      "none" : [ "ZM7360-1_TheGoodcopy_landscape" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://BinkHallum.github.io/TheGood/images/ZM7360-1_TheGoodcopy_landscape/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://BinkHallum.github.io/TheGood/images/ZM7360-1_TheGoodcopy_landscape/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 188,
+              "height" : 126
+            }, {
+              "width" : 376,
+              "height" : 251
+            }, {
+              "width" : 752,
+              "height" : 502
+            }, {
+              "width" : 1504,
+              "height" : 1004
+            }, {
+              "width" : 3008,
+              "height" : 2008
+            }, {
+              "width" : 6016,
+              "height" : 4016
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 6016,
+            "@id" : "https://BinkHallum.github.io/TheGood/images/ZM7360-1_TheGoodcopy_landscape",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 4016
+          } ],
+          "format" : "image/jpeg",
+          "width" : 6016,
+          "id" : "https://BinkHallum.github.io/TheGood/images/ZM7360-1_TheGoodcopy_landscape/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 4016
+        },
+        "target" : "https://BinkHallum.github.io/TheGood/images/ZM7360-1_TheGoodcopy_landscape/canvas/"
+      } ]
+    } ],
+    "height" : 4016
+  }, {
     "width" : 4016,
     "id" : "https://BinkHallum.github.io/TheGood/images/ZM7360-1_TheGood/canvas/",
     "label" : {
