@@ -3,6 +3,11 @@
   "@id" : "https://BinkHallum.github.io/TheGood/manifests/Talismanicmanifest.json",
   "@type" : "sc:Manifest",
   "label" : "Talismanic Charts of Ottoman Bosnia",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1240244679/114300627222714347489/16eba140cf5586d33afdb065b10054bb/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ ],
   "description" : [ {
     "@value" : "A collection of Arabic talismanic charts created during the Ottoman period held in the Ethnological Collections of the National Museum of Bosnia and Herzegovina (Zemaljski Muzej Bosne i Hercegovine), Sarajevo.",
@@ -42,6 +47,11 @@
           "width" : 6016
         },
         "on" : "http://05d29cf7-d5d3-459c-a233-068da5de453e"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://binkhallum.github.io/TheGood/annotations/GoodAnnotations.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "The Good annotations"
       } ],
       "related" : "",
       "metadata" : [ {
@@ -88,6 +98,11 @@
         },
         "on" : "http://1fd3c4dd-78c6-406d-be33-7f35c4345978"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://binkhallum.github.io/TheGood/annotations/BadAnnotations.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "The Bad annotations"
+      } ],
       "related" : "",
       "metadata" : [ {
         "label" : "Patron",
@@ -133,6 +148,11 @@
         },
         "on" : "http://f0104e72-2840-477f-8dc3-62f6594b506d"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://binkhallum.github.io/TheGood/annotations/BeautAnnotations.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "The Beautiful annotations"
+      } ],
       "related" : "",
       "metadata" : [ {
         "label" : "Patron",
@@ -156,7 +176,7 @@
     }, {
       "@id" : "http://60b3eaf6-b058-4823-85c0-e8cdaaad633e",
       "@type" : "sc:Canvas",
-      "label" : "Asḥāb al-Badr أصحاب البدر",
+      "label" : "Aṣḥāb al-Badr أصحاب البدر",
       "height" : 6016,
       "width" : 4016,
       "images" : [ {
@@ -177,6 +197,11 @@
           "width" : 4016
         },
         "on" : "http://60b3eaf6-b058-4823-85c0-e8cdaaad633e"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://binkhallum.github.io/TheGood/annotations/BadrAnnotations.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Aṣḥāb al-Badr annotations"
       } ],
       "related" : "",
       "metadata" : [ {
