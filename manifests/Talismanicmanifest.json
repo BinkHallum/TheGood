@@ -1,0 +1,204 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://BinkHallum.github.io/TheGood/manifests/Talismanicmanifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "Talismanic Charts of Ottoman Bosnia",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "A collection of Arabic talismanic charts created during the Ottoman period held in the Ethnological Collections of the National Museum of Bosnia and Herzegovina (Zemaljski Muzej Bosne i Hercegovine), Sarajevo.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+  "attribution" : "Zemaljski Muzej Bosne i Hercegovine",
+  "sequences" : [ {
+    "@id" : "http://36f01b9d-22f3-411e-ba2e-0df8aebf7c0d",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "viewingHint" : "individuals",
+    "canvases" : [ {
+      "@id" : "http://05d29cf7-d5d3-459c-a233-068da5de453e",
+      "@type" : "sc:Canvas",
+      "label" : "100 × 100 magic square الوفق المئيني \"The Good\"",
+      "height" : 4016,
+      "width" : 6016,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://8c84accf-3417-4faa-b5fa-b95570dda204",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://binkhallum.github.io/TheGood/images/ZM7360-1_TheGoodcopy_landscape/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://binkhallum.github.io/TheGood/images/ZM7360-1_TheGoodcopy_landscape",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4016,
+          "width" : 6016
+        },
+        "on" : "http://05d29cf7-d5d3-459c-a233-068da5de453e"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Patron",
+        "value" : "Ṣāliḥ صالح"
+      }, {
+        "label" : "Support",
+        "value" : "Linen"
+      }, {
+        "label" : "Dimensions",
+        "value" : "130 × 130 cm"
+      }, {
+        "label" : "Date",
+        "value" : "17th–18th century"
+      }, {
+        "label" : "Holding Institution",
+        "value" : "Zemaljski Muzej Bosne i Hercegovine - Sarajevo"
+      }, {
+        "label" : "Accession Number",
+        "value" : "ZM7360/1"
+      } ]
+    }, {
+      "@id" : "http://1fd3c4dd-78c6-406d-be33-7f35c4345978",
+      "@type" : "sc:Canvas",
+      "label" : "100 × 100 magic square الوفق المئيني \"The Bad\"",
+      "height" : 4016,
+      "width" : 6016,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://646268f4-d588-45e0-ab0a-725d0fa3cb75",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://binkhallum.github.io/TheGood/images/ZM15596-1_TheBad/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://binkhallum.github.io/TheGood/images/ZM15596-1_TheBad",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4016,
+          "width" : 6016
+        },
+        "on" : "http://1fd3c4dd-78c6-406d-be33-7f35c4345978"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Patron",
+        "value" : "Muṣṭafā مصطفى"
+      }, {
+        "label" : "Support",
+        "value" : "Linen"
+      }, {
+        "label" : "Dimensions",
+        "value" : "120 × 128 cm"
+      }, {
+        "label" : "Date",
+        "value" : "17th–18th century"
+      }, {
+        "label" : "Holding Institution",
+        "value" : "Zemaljski Muzej Bosne i Hercegovine - Sarajevo"
+      }, {
+        "label" : "Accession Number",
+        "value" : "ZM15596/1"
+      } ]
+    }, {
+      "@id" : "http://f0104e72-2840-477f-8dc3-62f6594b506d",
+      "@type" : "sc:Canvas",
+      "label" : "100 × 100 magic square الوفق المئيني \"The Beautiful\"",
+      "height" : 4016,
+      "width" : 6016,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://ed26bf91-0604-4bcc-bc10-f0cb639d4cc0",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://binkhallum.github.io/TheGood/images/ZM7359-1_TheBeautiful/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://binkhallum.github.io/TheGood/images/ZM7359-1_TheBeautiful",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4016,
+          "width" : 6016
+        },
+        "on" : "http://f0104e72-2840-477f-8dc3-62f6594b506d"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Patron",
+        "value" : "Ibrāhīm إبراهيم"
+      }, {
+        "label" : "Support",
+        "value" : "Dyed Silk"
+      }, {
+        "label" : "Dimensions",
+        "value" : "113 × 123 cm"
+      }, {
+        "label" : "Date",
+        "value" : "17th–18th century"
+      }, {
+        "label" : "Holding Institution",
+        "value" : "Zemaljski Muzej Bosne i Hercegovine - Sarajevo"
+      }, {
+        "label" : "Accession Number",
+        "value" : "ZM7359/1"
+      } ]
+    }, {
+      "@id" : "http://60b3eaf6-b058-4823-85c0-e8cdaaad633e",
+      "@type" : "sc:Canvas",
+      "label" : "Asḥāb al-Badr أصحاب البدر",
+      "height" : 6016,
+      "width" : 4016,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://fac2595e-7616-41d9-bebd-c2a2e989bf20",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://binkhallum.github.io/TheGood/images/ZM7287-1AshabAl-Badr/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://binkhallum.github.io/TheGood/images/ZM7287-1AshabAl-Badr",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 6016,
+          "width" : 4016
+        },
+        "on" : "http://60b3eaf6-b058-4823-85c0-e8cdaaad633e"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "Patron",
+        "value" : "Ibrāhīm إبراهيم"
+      }, {
+        "label" : "Support",
+        "value" : "Linen"
+      }, {
+        "label" : "Dimensions",
+        "value" : "Value"
+      }, {
+        "label" : "Date",
+        "value" : "17th–18th century"
+      }, {
+        "label" : "Holding Institution",
+        "value" : "Zemaljski Muzej Bosne i Hercegovine - Sarajevo"
+      }, {
+        "label" : "Accession Number",
+        "value" : "ZM7287/1"
+      } ]
+    } ]
+  } ],
+  "structures" : [ ]
+}
