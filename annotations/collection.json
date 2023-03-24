@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://BinkHallum.github.io/TheGood/annotations/BadAnnotations.json", "https://BinkHallum.github.io/TheGood/annotations/BadrAnnotations.json", "https://BinkHallum.github.io/TheGood/annotations/BeautAnnotations.json" ],
+  "otherContent" : [ "https://BinkHallum.github.io/TheGood/annotations/BadAnnotations.json", "https://BinkHallum.github.io/TheGood/annotations/BadrAnnotations.json", "https://BinkHallum.github.io/TheGood/annotations/BeautAnnotations.json", "https://BinkHallum.github.io/TheGood/annotations/GoodAnnotations.json" ],
   "@id" : "https://BinkHallum.github.io/TheGood/annotations/collection.json",
   "label" : "All annotations loaded in BinkHallum/TheGood project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
