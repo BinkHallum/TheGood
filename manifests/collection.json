@@ -1,0 +1,13 @@
+{
+  "id" : "https://BinkHallum.github.io/TheGood/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in BinkHallum/TheGood project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://BinkHallum.github.io/TheGood/manifests/Talismanicmanifest.json",
+    "label" : "Talismanic Charts of Ottoman Bosnia"
+  } ]
+}
